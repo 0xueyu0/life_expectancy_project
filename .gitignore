@@ -1,1 +1,5 @@
 /life_expectancy_data.csv
+/processed_data.csv
+/selected_features.csv
+/model.pkl
+/metrics.json
